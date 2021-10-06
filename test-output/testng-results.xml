@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="87" started-at="2021-06-13T23:13:46 EDT" finished-at="2021-06-13T23:13:46 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="87" started-at="2021-06-13T23:13:46 EDT" finished-at="2021-06-13T23:13:46 EDT">
+      <class name="testngPractice.TestNGLearning">
+        <test-method status="PASS" signature="firtTest()[pri:0, instance:testngPractice.TestNGLearning@16022d9d]" name="firtTest" duration-ms="16" started-at="2021-06-13T23:13:46 EDT" finished-at="2021-06-13T23:13:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firtTest -->
+      </class> <!-- testngPractice.TestNGLearning -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
